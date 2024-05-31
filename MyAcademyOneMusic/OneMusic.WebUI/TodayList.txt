@@ -1,0 +1,4 @@
+﻿1- şarkı dosyadan eklencek artist tarafında
+2- albüme göre ve sanatçıya göre şarkıların getirleceği bir alan
+3- album/ındex içinde dropdown ile filtreleme yaparak albümleri getirme (harfler bölümündeki gibi)
+

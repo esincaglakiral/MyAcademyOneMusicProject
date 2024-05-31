@@ -1,0 +1,12 @@
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\bin\Debug\net8.0\OneMusic.EntityLayer.deps.json
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\bin\Debug\net8.0\OneMusic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\bin\Debug\net8.0\OneMusic.EntityLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\obj\Debug\net8.0\OneMusic.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\obj\Debug\net8.0\OneMusic.EntityLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\obj\Debug\net8.0\OneMusic.EntityLayer.AssemblyInfo.cs
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\obj\Debug\net8.0\OneMusic.EntityLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\obj\Debug\net8.0\OneMusic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\obj\Debug\net8.0\refint\OneMusic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\obj\Debug\net8.0\OneMusic.EntityLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\obj\Debug\net8.0\ref\OneMusic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.EntityLayer\obj\Debug\net8.0\OneMusic.EntityLayer.csproj.AssemblyReference.cache

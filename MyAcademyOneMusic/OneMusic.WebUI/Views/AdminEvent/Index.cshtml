@@ -1,0 +1,36 @@
+﻿@model List<Event>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+    int count = 0;
+}
+
+<table class="table table-bordered table-hover">
+    <tr>
+
+        <th>#</th>
+        <th>Resim</th>
+        <th>Etkinlik Başlığı</th>
+        <th>Yer</th>
+        <th>Tarih</th>
+        <th>İşlemler</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        count++;
+        <tr>
+            <td>@count</td>
+            <td><img src="@item.ImageUrl" style="width:50px; height:50px"/></td>
+
+            <td>@item.Title</td>
+            <td>@item.Place</td>
+            <td>@item.DateTime</td>
+            <td class="text-center">
+                <a class="btn btn-outline-danger" asp-action="DeleteEvent" asp-route-id="@item.EventId">Sil</a>
+                <a class="btn btn-outline-info" asp-action="UpdateEvent" asp-route-id="@item.EventId">Güncelle</a>
+            </td>
+        </tr>
+    }
+</table>
+<a class="btn btn-outline-success" asp-action="CreateEvent">Yeni Etkinlik Oluştur</a>
+

@@ -1,0 +1,17 @@
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\bin\Debug\net8.0\OneMusic.BusinessLayer.deps.json
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\bin\Debug\net8.0\OneMusic.BusinessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\bin\Debug\net8.0\OneMusic.BusinessLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\bin\Debug\net8.0\OneMusic.DataAccessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\bin\Debug\net8.0\OneMusic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\bin\Debug\net8.0\OneMusic.DataAccessLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\bin\Debug\net8.0\OneMusic.EntityLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\obj\Debug\net8.0\OneMusic.BusinessLayer.csproj.AssemblyReference.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\obj\Debug\net8.0\OneMusic.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\obj\Debug\net8.0\OneMusic.BusinessLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\obj\Debug\net8.0\OneMusic.BusinessLayer.AssemblyInfo.cs
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\obj\Debug\net8.0\OneMusic.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\obj\Debug\net8.0\OneMusic.1466FA23.Up2Date
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\obj\Debug\net8.0\OneMusic.BusinessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\obj\Debug\net8.0\refint\OneMusic.BusinessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\obj\Debug\net8.0\OneMusic.BusinessLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.BusinessLayer\obj\Debug\net8.0\ref\OneMusic.BusinessLayer.dll

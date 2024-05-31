@@ -1,0 +1,147 @@
+﻿﻿
+@model List<Album>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/UILayout/Index.cshtml";
+}
+
+<!-- ##### Breadcumb Area Start ##### -->
+<section class="breadcumb-area bg-img bg-overlay" style="background-image: url(/one-music-gh-pages/img/bg-img/breadcumb3.jpg);">
+    <div class="bradcumbContent">
+      
+        <h2>Albümler</h2>
+    </div>
+</section>
+<!-- ##### Breadcumb Area End ##### -->
+<!-- ##### Album Catagory Area Start ##### -->
+<section class="album-catagory section-padding-100-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="browse-by-catagories catagory-menu d-flex flex-wrap align-items-center mb-70">
+                  @await Html.PartialAsync("FilterAlbums")
+                  
+                </div>
+            </div>
+        </div>
+
+        <div class="row oneMusic-albums">
+            @foreach (var item in Model)
+            {
+                
+          
+
+            <!-- Single Album -->
+            <div class="col-12 col-sm-4 col-md-3 col-lg-2 single-album-item t c p">
+                <div class="single-album">
+                    <img src="@item.CoverImage" alt="">
+                    <div class="album-info">
+                        <a href="#">
+                            <h5>@item.AppUser.Name @item.AppUser.Surname</h5>
+                        </a>
+                        <p>@item.AlbumName</p>
+                    </div>
+                </div>
+            </div>
+            }
+           
+
+        </div>
+    </div>
+</section>
+<!-- ##### Album Catagory Area End ##### -->
+<!-- ##### Buy Now Area Start ##### -->
+@await Component.InvokeAsync("_DefaultAlbumSongSaleComponent")
+
+<!-- ##### Buy Now Area End ##### -->
+<!-- ##### Add Area Start ##### -->
+<div class="add-area mb-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="adds">
+                    <h4>Aramıza katılmak için resmi tıklayınız..</h4>
+                    <a href="/Register/Signup"><img style="width:1500px;height:700px;" src="https://i.hizliresim.com/mrmbj5e.jpg" alt=""></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ##### Add Area End ##### -->
+<!-- ##### Song Area Start ##### -->
+<div class="one-music-songs-area mb-70">
+    <div class="container">
+        <div class="row">
+
+            <!-- Single Song Area -->
+            <div class="col-12">
+                <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                    <div class="song-thumbnail">
+                        <img src="img/bg-img/s1.jpg" alt="">
+                    </div>
+                    <div class="song-play-area">
+                        <div class="song-name">
+                            <p>01. Main Hit Song</p>
+                        </div>
+                        <audio preload="auto" controls>
+                            <source src="audio/dummy-audio.mp3">
+                        </audio>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Song Area -->
+            <div class="col-12">
+                <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                    <div class="song-thumbnail">
+                        <img src="img/bg-img/s2.jpg" alt="">
+                    </div>
+                    <div class="song-play-area">
+                        <div class="song-name">
+                            <p>01. Main Hit Song</p>
+                        </div>
+                        <audio preload="auto" controls>
+                            <source src="audio/dummy-audio.mp3">
+                        </audio>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Song Area -->
+            <div class="col-12">
+                <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                    <div class="song-thumbnail">
+                        <img src="img/bg-img/s3.jpg" alt="">
+                    </div>
+                    <div class="song-play-area">
+                        <div class="song-name">
+                            <p>01. Main Hit Song</p>
+                        </div>
+                        <audio preload="auto" controls>
+                            <source src="audio/dummy-audio.mp3">
+                        </audio>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Single Song Area -->
+            <div class="col-12">
+                <div class="single-song-area mb-30 d-flex flex-wrap align-items-end">
+                    <div class="song-thumbnail">
+                        <img src="img/bg-img/s4.jpg" alt="">
+                    </div>
+                    <div class="song-play-area">
+                        <div class="song-name">
+                            <p>01. Main Hit Song</p>
+                        </div>
+                        <audio preload="auto" controls>
+                            <source src="audio/dummy-audio.mp3">
+                        </audio>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+<!-- ##### Song Area End ##### -->

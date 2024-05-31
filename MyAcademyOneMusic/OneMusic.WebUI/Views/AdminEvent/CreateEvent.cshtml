@@ -1,0 +1,25 @@
+﻿@model Event
+@{
+    ViewData["Title"] = "CreateEvent";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h3>Yeni Etkinlik Oluşturma Sayfası</h3>
+
+<form method="post">
+    <label>Resim</label>
+    <input type="text" asp-for="ImageUrl" class="form-control" />
+    <br />
+    <label>Etkinlik Başlığı</label>
+    <input type="text" asp-for="Title" class="form-control" />
+    <br />
+    <label>Yer</label>
+    <input type="text" asp-for="Place" class="form-control" /> 
+    <br />
+    <label>Tarih</label>
+    <input type="text" asp-for="DateTime" class="form-control" />
+    <br />
+    <button class="btn btn-outline-primary">Kaydet</button>
+
+</form>
+

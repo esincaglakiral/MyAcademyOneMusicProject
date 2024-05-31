@@ -1,0 +1,37 @@
+﻿@model Album
+@{
+    ViewData["Title"] = "CreateAlbum";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<h3>Yeni Album Oluşturma Sayfası</h3>
+
+<form method="post">
+    <label>Resim Url</label>
+    <input type="text" asp-for="CoverImage" class="form-control" />
+    <br />
+    <label>Album Adı</label>
+    <input type="text" asp-for="AlbumName" class="form-control" />
+    <br />
+    <label>Şarkıcı</label>
+    <label asp-for="AppUserId" class="control-label">Sanatçı</label>
+    <select asp-for="AppUserId" class="form-control" asp-items="ViewBag.Singers"></select>
+    <span asp-validation-for="AppUserId" class="text-danger"></span>
+
+    <br />
+    <label>Album Kategorisi</label>
+    <select asp-for="CategoryId" class="form-control" id="categoryId">
+        <option value="">-- Kategori Seçin --</option>
+        @foreach (var category in ViewBag.CategoryList)
+        {
+            <option value="@category.Value">@category.Text</option>
+        }
+    </select>
+    <br />
+    <label>Album Fiyatı</label>
+    <input type="text" asp-for="Price" class="form-control" />
+    <br />
+
+    <button class="btn btn-outline-primary">Kaydet</button>
+</form>
+

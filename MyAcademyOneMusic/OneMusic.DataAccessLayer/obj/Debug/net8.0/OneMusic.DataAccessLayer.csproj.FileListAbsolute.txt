@@ -1,0 +1,17 @@
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\bin\Debug\net8.0\OneMusic.DataAccessLayer.deps.json
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\bin\Debug\net8.0\OneMusic.DataAccessLayer.runtimeconfig.json
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\bin\Debug\net8.0\OneMusic.DataAccessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\bin\Debug\net8.0\OneMusic.DataAccessLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\bin\Debug\net8.0\OneMusic.EntityLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\bin\Debug\net8.0\OneMusic.EntityLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\OneMusic.DataAccessLayer.csproj.AssemblyReference.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\OneMusic.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\OneMusic.DataAccessLayer.AssemblyInfoInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\OneMusic.DataAccessLayer.AssemblyInfo.cs
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\OneMusic.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\OneMusic.1CFA245C.Up2Date
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\OneMusic.DataAccessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\refint\OneMusic.DataAccessLayer.dll
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\OneMusic.DataAccessLayer.pdb
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\OneMusic.DataAccessLayer.genruntimeconfig.cache
+D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.DataAccessLayer\obj\Debug\net8.0\ref\OneMusic.DataAccessLayer.dll

@@ -1,0 +1,311 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = OneMusic.WebUI
+build_property.RootNamespace = OneMusic.WebUI
+build_property.ProjectDir = D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.WebUI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\SoftwareProject\MYYazilimProjeleri\MyAcademyOneMusic\OneMusic.WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Areas/Artist/Views/ArtistLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJ0aXN0XFZpZXdzXEFydGlzdExheW91dFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Areas/Artist/Views/MyAlbum/CreateAlbum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJ0aXN0XFZpZXdzXE15QWxidW1cQ3JlYXRlQWxidW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Areas/Artist/Views/MyAlbum/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJ0aXN0XFZpZXdzXE15QWxidW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Areas/Artist/Views/MyAlbum/UpdateAlbum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJ0aXN0XFZpZXdzXE15QWxidW1cVXBkYXRlQWxidW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Areas/Artist/Views/MySong/CreateSong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJ0aXN0XFZpZXdzXE15U29uZ1xDcmVhdGVTb25nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Areas/Artist/Views/MySong/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJ0aXN0XFZpZXdzXE15U29uZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Areas/Artist/Views/MySong/UpdateSong.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJ0aXN0XFZpZXdzXE15U29uZ1xVcGRhdGVTb25nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Areas/Artist/Views/Profile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJ0aXN0XFZpZXdzXFByb2ZpbGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Areas/Artist/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQXJ0aXN0XFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminAbout/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxDcmVhdGVBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminAbout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminAbout/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BYm91dFxVcGRhdGVBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminAlbum/AlbumsByArtist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbGJ1bVxBbGJ1bXNCeUFydGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminAlbum/CreateAlbum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbGJ1bVxDcmVhdGVBbGJ1bS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminAlbum/GetSongsByAlbumId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbGJ1bVxHZXRTb25nc0J5QWxidW1JZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminAlbum/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbGJ1bVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminAlbum/UpdateAlbum.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BbGJ1bVxVcGRhdGVBbGJ1bS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminCategory/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yeVxDcmVhdGVDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminCategory/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5DYXRlZ29yeVxVcGRhdGVDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminContact/CreateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XENyZWF0ZUNvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminContact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminContact/UpdateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XFVwZGF0ZUNvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminEvent/CreateEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5FdmVudFxDcmVhdGVFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminEvent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5FdmVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminLayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminMessage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5NZXNzYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminSinger/CreateSinger.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TaW5nZXJcQ3JlYXRlU2luZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminSinger/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TaW5nZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/AdminSinger/UpdateSinger.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5TaW5nZXJcVXBkYXRlU2luZ2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Albums/FilterAlbums.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXEZpbHRlckFsYnVtcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Albums/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Album/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxidW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/ArtistDetail/AlbumsByArtistDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0RGV0YWlsXEFsYnVtc0J5QXJ0aXN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/ArtistDetail/GetSongsByAlbumDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0RGV0YWlsXEdldFNvbmdzQnlBbGJ1bURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/ArtistDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0RGV0YWlsXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Artists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/ErrorPage/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEFjY2Vzc0RlbmllZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/ErrorPage/Error404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JQYWdlXEVycm9yNDA0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Event/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Register/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcU2lnbnVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/RoleAssign/AssignRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZUFzc2lnblxBc3NpZ25Sb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/RoleAssign/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZUFzc2lnblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Role/CreateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxDcmVhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Role/UpdateRole.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVcGRhdGVSb2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_AdminLayoutNavbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0TmF2YmFyXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_AdminLayoutSidebar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluTGF5b3V0U2lkZWJhclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultAlbumComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRBbGJ1bUNvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultAlbumListComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRBbGJ1bUxpc3RDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultAlbumSongSaleComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRBbGJ1bVNvbmdTYWxlQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultBannerComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRCYW5uZXJDb21wb25lbnRcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultContactComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRDb250YWN0Q29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultEventComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRFdmVudENvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultMessageComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRNZXNzYWdlQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultMiscellaneousTopComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRNaXNjZWxsYW5lb3VzVG9wQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultMostListenedToSongs/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRNb3N0TGlzdGVuZWRUb1NvbmdzXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultNewHitSongsComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHROZXdIaXRTb25nc0NvbXBvbmVudFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultPopularArtistComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRQb3B1bGFyQXJ0aXN0Q29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Components/_DefaultTopSingersComponent/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0RlZmF1bHRUb3BTaW5nZXJzQ29tcG9uZW50XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/UILayout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlMYXlvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/SoftwareProject/MYYazilimProjeleri/MyAcademyOneMusic/OneMusic.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xrdlvci3cv

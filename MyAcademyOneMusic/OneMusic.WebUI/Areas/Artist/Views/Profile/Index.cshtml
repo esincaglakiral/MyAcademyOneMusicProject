@@ -1,0 +1,77 @@
+﻿@model ArtistEditViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Artist/Views/ArtistLayout/Index.cshtml";
+}
+
+<h3>Profil Bilgileri Güncelleme Sayfası</h3>
+
+<form method="post" enctype="multipart/form-data">
+   <div class="text-center">
+       <img src="@Model.ImageUrl" style="width:100px; height:100px"/>
+   </div>
+
+
+
+    <label>Ad</label>
+    <input type="text" asp-for="Name" class="form-control" required/>
+    <br />
+    <label>Soyad</label>
+    <input type="text" asp-for="Surname" class="form-control" required />
+    <br />
+    <label>Kullanıcı Adı</label>
+    <input type="text" asp-for="UserName" class="form-control" required />
+    <br />
+    <label>E-Mail</label>
+    <input type="email" asp-for="Email" class="form-control" required />
+    <br />
+    <label>Telefon</label>
+    <input type="text" asp-for="PhoneNumber" class="form-control" />
+    <br />
+    <input type="hidden" asp-for="ImageUrl" class="form-control" />
+    <br />
+    <label>Profil Resmi Dosya</label>
+    <input type="file" accept="image/*" asp-for="ImageFile" class="form-control" />
+    <br />
+    <label>Mevcut Şifreniz</label>
+    <input type="password" asp-for="OldPassword" class="form-control" required />
+    <br />
+    <label>Yeni Şifreniz</label>
+    <input type="password" asp-for="NewPassword" class="form-control" />
+    <br />
+    <label>Yeni Şifre Tekrar</label>
+    <input type="password" asp-for="ConfirmPassword" class="form-control" />
+    <br />
+
+    <p style="color:red">@Html.ValidationSummary()</p>
+    <button class="btn btn-outline-primary">Bilgileri Güncelle</button>
+</form>
+
+
+@* <script type="text/javascript">
+    function validateFileType() {
+        var fileName = document.getElementById("fileName").value;
+        var idxDot = fileName.lastIndexOf(".") + 1;
+        var extFile = fileName.substr(idxDot, fileName.length).toLowerCase();
+        if (extFile == "jpg" || extFile == "jpeg" || extFile == "png") {
+            //TO DO
+        } else {
+            Swal.fire({
+                title: "Hata",
+                text: "Sadece resim dosyaları (.jpg, .png, .jpeg) seçmelisiniz",
+                icon: "warning",
+                showCancelButton: false,
+                confirmButtonColor: "#3085d6",
+                cancelButtonColor: "#d33",
+                confirmButtonText: "Tamam",
+                cancelButtonText: "İptal"
+            }).then((result) => {
+                if (result.isConfirmed) {
+
+                    window.location.href = "/Artist/Profile/Index/";
+
+                }
+            });
+        }
+    }
+</script> *@
