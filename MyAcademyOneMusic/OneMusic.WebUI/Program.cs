@@ -17,10 +17,10 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<OneMusicContext>().AddErrorDescriber<CustomErrorDescriber>();
 
-// Programın katmanlar arasında tanımladığımız metotları işlemleri çalıştırabilmesi için her bir katman nerden biras almışsa onu burda mutlaka tanımlamamız gerekir.
-// Unutmayalımki proje WebUI katmanından çalışıyordu ve program.cs de bu katmanın içerisinde. 
-builder.Services.AddScoped<IAboutDal, EfAboutDal>(); //DataAccessLayer: IAboutDal içerisindeki metotlar EfAboutDal da yazılmıştır. (registiration işlemi)
-builder.Services.AddScoped<IAboutService, AboutManager>(); // BusinessLayer: IAboutService içerisindeki metotlar AboutManager da yazılmıştır. (registiration işlemi)
+// ProgramÃ½n katmanlar arasÃ½nda tanÃ½mladÃ½Ã°Ã½mÃ½z metotlarÃ½ iÃ¾lemleri Ã§alÃ½Ã¾tÃ½rabilmesi iÃ§in her bir katman nerden biras almÃ½Ã¾sa onu burda mutlaka tanÃ½mlamamÃ½z gerekir.
+// UnutmayalÃ½mki proje WebUI katmanÃ½ndan Ã§alÃ½Ã¾Ã½yordu ve program.cs de bu katmanÃ½n iÃ§erisinde. 
+builder.Services.AddScoped<IAboutDal, EfAboutDal>(); //DataAccessLayer: IAboutDal iÃ§erisindeki metotlar EfAboutDal da yazÃ½lmÃ½Ã¾tÃ½r. (registiration iÃ¾lemi)
+builder.Services.AddScoped<IAboutService, AboutManager>(); // BusinessLayer: IAboutService iÃ§erisindeki metotlar AboutManager da yazÃ½lmÃ½Ã¾tÃ½r. (registiration iÃ¾lemi)
 
 builder.Services.AddScoped<IAlbumDal, EfAlbumDal>();
 builder.Services.AddScoped<IAlbumService, AlbumManager>();
@@ -49,24 +49,24 @@ builder.Services.AddScoped<ICategoryService, CategoryManager>();
 builder.Services.AddValidatorsFromAssemblyContaining<SingerValidator>();
 
 
-builder.Services.AddDbContext<OneMusicContext>();  //  DbContext’imiz de OneMusicContext olarak belirtiriz. Bunu vermezsek projeyi çalıştıramayız!!
+builder.Services.AddDbContext<OneMusicContext>();  //  DbContextâ€™imiz de OneMusicContext olarak belirtiriz. Bunu vermezsek projeyi Ã§alÃ½Ã¾tÃ½ramayÃ½z!!
 
 builder.Services.AddControllersWithViews(option =>
 {
 
-    var authorizePolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build(); //otantike olan bir kullanıcı gerekiyor authorize için
+    var authorizePolicy = new AuthorizationPolicyBuilder().RequireAuthenticatedUser().Build(); //otantike olan bir kullanÃ½cÃ½ gerekiyor authorize iÃ§in
 
 
-	option.Filters.Add(new AuthorizeFilter(authorizePolicy));  //Bu şekilde proje seviyesinde bütün Controllerlarımıza Authorize eklemiş olduk 
-    // fakat sadece burasıyla bırakırsa Loginle kayıt olan tüm sayfalara erişim kesilmiş oluyor. Bu sorunun giderilmesi için Login ve Register
-    // controllerlarına AllowAnonymous ekleriz ki onlara erişim sağlayabilelim.
+	option.Filters.Add(new AuthorizeFilter(authorizePolicy));  //Bu Ã¾ekilde proje seviyesinde bÃ¼tÃ¼n ControllerlarÃ½mÃ½za Authorize eklemiÃ¾ olduk 
+    // fakat sadece burasÃ½yla bÃ½rakÃ½rsa Loginle kayÃ½t olan tÃ¼m sayfalara eriÃ¾im kesilmiÃ¾ oluyor. Bu sorunun giderilmesi iÃ§in Login ve Register
+    // controllerlarÃ½na AllowAnonymous ekleriz ki onlara eriÃ¾im saÃ°layabilelim.
 
 });
 
 builder.Services.ConfigureApplicationCookie(options =>
 {
-	options.LoginPath = "/Login/Index";  // bu işlemi mvc de web.config de yapardık, net core da ise program.cs de yaparız
-    //options.AccessDeniedPath = "/ErrorPage/AccessDenied"; //yetkisi olmayan kişi bu sayfatya erişir
+	options.LoginPath = "/Login/Index";  // bu iÃ¾lemi mvc de web.config de yapardÃ½k, net core da ise program.cs de yaparÃ½z
+    options.AccessDeniedPath = "/ErrorPage/AccessDenied"; //yetkisi olmayan kiÃ¾i bu sayfatya eriÃ¾ir
     options.LogoutPath = "/Login/LogOut";
 
 });
@@ -81,7 +81,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-//app.UseStatusCodePagesWithReExecute("/ErrorPage/Error404/", "?code{0}");  // olmayan bir sayfaya erişmeye çalışınca
+app.UseStatusCodePagesWithReExecute("/ErrorPage/Error404/", "?code{0}");  // olmayan bir sayfaya eriÃ¾meye Ã§alÃ½Ã¾Ã½nca
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
