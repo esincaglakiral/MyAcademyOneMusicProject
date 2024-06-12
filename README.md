@@ -12,6 +12,63 @@ One Music Projesi, sanatçıların kayıt olarak giriş yaptıkları panellerde 
 
 * Kullanıcı Paneli: Kullanıcılar en hit parçalardan, en çok dinlenilen albümlere, en çok sevilen sanatçılardan o sanatçıların albümlerine ve parçalarına kadar bir çok alan erişim sağlayabilir ve keyifli bir müzik dinleme deneyimi elde edebilir.
 
+
+### Kullanılan Katmanlar ;
+
+📌 OneMusic.BusinessLayer
+
+📌 OneMusic.DataAccessLayer
+
+📌 OneMusic.EntityLayer
+
+📌 OneMusic.WebUI
+
+
+### Kullanılan Teknolojiler;
+
+📌 ASP.NET Core 8.0
+
+📌 Entity Framework Code First
+
+📌 MSSQL Server
+
+📌 LINQ
+
+📌 HTML, CSS, Bootstrap
+
+📌 Fluent Validation
+
+📌 Identity
+
+
+### Teknik Özellikler;
+
+📌 N katmanlı mimari
+
+📌 Repository tasarım deseni
+
+📌 Kullanıcı ve rol işlemleri (Admin, Sanatçı ve Ziyaretçi Rolleri)
+
+📌 Rollere Göre Erişim Yetkileri
+
+📌 Üye/Sanatçı ve Admin panelleri
+
+📌 Giriş, Kayıt Olma, Rol Atama sistemleri
+
+📌 Sayfalama ve Doğrulama 
+
+📌 Validasyon Kontrolleri
+
+📌 Profil ayarları
+
+📌 CRUD işlemleri
+
+📌 Albüm Görüntüleme ve Müzik Dinleme
+
+📌 Sanatçıya Göre Albüm, Albüme Göre Şarkıları Getirme
+
+📌 Bilgisayardan dosya olarak resim ve müzik yükleyebilme
+
 ----------------------------------------------------------------------------------------------------------------------------------------------
 ## Projeye Ait Linkedin Paylaşımın ve Tanıtım Videosunun Bulunduğu Link:   https://www.linkedin.com/feed/update/urn:li:activity:7202163691981619200/
 ----------------------------------------------------------------------------------------------------------------------------------------------
